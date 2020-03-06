@@ -1,0 +1,11 @@
+D:\Documentos\C#\IComparable\IComparable\obj\Debug\netcoreapp3.0\IComparable.csprojAssemblyReference.cache
+D:\Documentos\C#\IComparable\IComparable\obj\Debug\netcoreapp3.0\IComparable.AssemblyInfoInputs.cache
+D:\Documentos\C#\IComparable\IComparable\obj\Debug\netcoreapp3.0\IComparable.AssemblyInfo.cs
+D:\Documentos\C#\IComparable\IComparable\bin\Debug\netcoreapp3.0\IComparable.exe
+D:\Documentos\C#\IComparable\IComparable\bin\Debug\netcoreapp3.0\IComparable.deps.json
+D:\Documentos\C#\IComparable\IComparable\bin\Debug\netcoreapp3.0\IComparable.runtimeconfig.json
+D:\Documentos\C#\IComparable\IComparable\bin\Debug\netcoreapp3.0\IComparable.runtimeconfig.dev.json
+D:\Documentos\C#\IComparable\IComparable\bin\Debug\netcoreapp3.0\IComparable.dll
+D:\Documentos\C#\IComparable\IComparable\bin\Debug\netcoreapp3.0\IComparable.pdb
+D:\Documentos\C#\IComparable\IComparable\obj\Debug\netcoreapp3.0\IComparable.dll
+D:\Documentos\C#\IComparable\IComparable\obj\Debug\netcoreapp3.0\IComparable.pdb
